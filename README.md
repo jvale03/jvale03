@@ -9,8 +9,7 @@ Recent Computer Engineering graduate eager to develop new skills and contribute 
 
 - **Programming Languages:** Python, Java, C, Haskell
 - **Web Development:** HTML, Vue.js
-- **Databases:** MySQL
-- **Others:** Git, Linux
+- **Others:** Git
 
 
 ## 📈 GitHub Stats
