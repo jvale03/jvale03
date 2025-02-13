@@ -3,13 +3,13 @@
 [![GitHub Followers](https://img.shields.io/github/followers/jvale03?label=follow&style=social)](https://github.com/jvale03)
 [![Gmail Badge](https://img.shields.io/badge/-carlosvalejcov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosvalejcov@gmail.com)](mailto:carlosvalejcov@gmail.com)
 
-Recent Computer Engineering graduate eager to develop new skills and contribute to innovative projects.
+I’m a master’s student in Software Engineering with a passion for AI, Machine Learning, and Data Science. Focused on developing practical, data-driven solutions to complex problems.
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C, Haskell
-- **Web Development:** HTML, Vue.js
-- **Others:** Git
+- **Technologies:** Scikit-Learn, TensorFlow
+- **Data Sciente:** NumPy, Pandas
+- **DataBases:** NoSQL
 
 
 ## 📈 GitHub Stats
