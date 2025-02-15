@@ -11,9 +11,8 @@ I’m a master’s student in Software Engineering with a passion for AI, Machin
 - **Data Sciente:** NumPy, Pandas
 - **DataBases:** NoSQL
 
-
-## 📈 GitHub Stats
 <!--
+## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvale03&show_icons=true&theme=radical)](https://github.com/jvale03)
 -->
 <!--
