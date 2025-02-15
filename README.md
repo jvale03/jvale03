@@ -16,6 +16,6 @@ I’m a master’s student in Software Engineering with a passion for AI, Machin
 <!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvale03&show_icons=true&theme=radical)](https://github.com/jvale03)
 -->
-
+<!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvale03&layout=compact&theme=radical)](https://github.com/jvale03)
-
+-->
